@@ -43,7 +43,7 @@ QX ToolFrame，旨在提供一个结构化的工具管理方式，支持通过 J
 
 ### 框架自定义教程
 
-请移步[ **_QX Wiki_** ](https://gitee.com/QngXuan2000/QX-Utils/wikis/Wiki%20Start)[https://gitee.com/QngXuan2000/QX-Utils/wikis/Wiki%20Start]
+请移步[ **_QX Wiki_** ](https://github.com/QingXuan2000/QX-ToolFrame/wiki/-Wiki-Start)[https://github.com/QingXuan2000/QX-ToolFrame/wiki/-Wiki-Start]
 
 ---
 
