@@ -1,0 +1,76 @@
+{
+    "tools": {
+        "CPUZ": {
+            "index": 1,
+            "name": "| 1 |→ CPUZ",
+            "start_command": {
+                "X86_64": "start ./tools/CPU工具/CPUZ/cpuz_x64.exe",
+                "X86": "start ./tools/CPU工具/CPUZ/cpuz_x32.exe"
+            }
+        },
+        "CoreTemp": {
+            "index": 2,
+            "name": "| 2 |→ CoreTemp",
+            "start_command": {
+                "X86_64": "start ./tools/CPU工具/CoreTemp/CoreTemp_x64.exe",
+                "X86": "start ./tools/CPU工具/CoreTemp/Core_Temp_x86.exe"
+            }
+        },
+        "LinX": {
+            "index": 3,
+            "name": "| 3 |→ LinX",
+            "start_command": {
+                "X86_64": "start ./tools/CPU工具/LinX/LinX.exe",
+                "X86": "start ./tools/CPU工具/LinX/LinX.exe"
+            }
+        },
+        "Prime95": {
+            "index": 4,
+            "name": "| 4 |→ Prime95",
+            "start_command": {
+                "X86_64": "start ./tools/CPU工具/Prime95/prime95.exe -t",
+                "X86": "start ./tools/CPU工具/Prime95/prime95.exe -t"
+            }
+        },
+        "iva": {
+            "index": 5,
+            "name": "| 5 |→ iva",
+            "start_command": {
+                "X86_64": ".\\tools\\CPU工具\\iva\\iva.bat",
+                "X86": ".\\tools\\CPU工具\\iva\\iva.bat"
+            }
+        },
+        "Superpi": {
+            "index": 6,
+            "name": "| 6 |→ Superpi",
+            "start_command": {
+                "X86_64": "start ./tools/CPU工具/superpi/Superpi.exe",
+                "X86": "start ./tools/CPU工具/superpi/Superpi.exe"
+            }
+        },
+        "ThrottleStop": {
+            "index": 7,
+            "name": "| 7 |→ ThrottleStop",
+            "start_command": {
+                "X86_64": "start ./tools/CPU工具/ThrottleStop/ThrottleStop.exe",
+                "X86": "start ./tools/CPU工具/ThrottleStop/ThrottleStop.exe"
+            }
+        },
+        "wPrime": {
+            "index": 8,
+            "name": "| 8 |→ wPrime",
+            "start_command": {
+                "X86_64": "start ./tools/CPU工具/wPrime/wPrime.exe",
+                "X86": "start ./tools/CPU工具/wPrime/wPrime.exe"
+            }
+        },
+        "XIANGQI": {
+            "index": 9,
+            "name": "| 9 |→ XIANGQI",
+            "start_command": {
+                "X86_64": "start ./tools/CPU工具/XIANGQI/xiangqi.exe",
+                "X86": "start ./tools/CPU工具/XIANGQI/xiangqi.exe"
+            }
+        }
+    }
+}
